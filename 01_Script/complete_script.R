@@ -141,9 +141,10 @@ clean_names(activity)
 clean_names(sleep)
 
 ## Time formatting
+# Dataset: activity
 activity$activitydate=as.POSIXct(activity$activitydate, format="%m/%d/%Y", tz=Sys.timezone())
 activity$dt <- format(activity$activitydate, format = "%m/%d/%y")
-# sleep
+# Dataset: sleep
 sleep$sleepday=as.POSIXct(sleep$sleepday, format="%m/%d/%Y %I:%M:%S %p", tz=Sys.timezone())
 sleep$dt <- format(sleep$sleepday, format = "%m/%d/%y")
 
