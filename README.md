@@ -25,4 +25,4 @@ Which dataset will be used for the analysis?
   tracking behaviors/preferences.
 
 
-Here is the link to the case study in html --> http://rpubs.com/Soeren87221/904518
+Here is the link to the case study in html --> file:///Users/sorennonnengart/Desktop/Coursera/google%20analytics/Case%20study/rmarkdown/case-study_So%CC%88ren-nonnengart_2.html
