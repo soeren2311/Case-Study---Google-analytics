@@ -1,4 +1,5 @@
 # Case-Study - Google-analytics
+
 This is a case study I completed as part of the "google analytics"-course. With this analysis I will help to guide the 
 marketing strategy for the company. 
 
@@ -22,3 +23,6 @@ Which dataset will be used for the analysis?
   data, including minute-level output for physical activity, heart rate, and sleep monitoring. 
   Variation between output represents use of different types of Fitbit trackers and individual 
   tracking behaviors/preferences.
+
+
+Here is the link to the case study in html --> http://rpubs.com/Soeren87221/904518
