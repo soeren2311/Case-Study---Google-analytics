@@ -92,11 +92,11 @@ rm(list=ls()) #delete all objects in working memory
 ### data.frame
 ### Directories
 
-path1 <- "/Users/sorennonnengart/Desktop/google analytics/Case study/Bellabeat/results"   
-path2 <- "/Users/sorennonnengart/Desktop/google analytics/Case study/Bellabeat/data_orig" #directory of original data
-path3 <- "/Users/sorennonnengart/Desktop/google analytics/Case study/Bellabeat/data_prep" #directory of prepared datasets
-path4 <- "/Users/sorennonnengart/Desktop/google analytics/Case study/Bellabeat/tables" 
-path5 <- "/Users/sorennonnengart/Desktop/google analytics/Case study/Bellabeat/graphs" 
+path1 <- "/Users/.../results"   
+path2 <- "/Users/.../data_orig" #directory of original data
+path3 <- "/Users/.../data_prep" #directory of prepared datasets
+path4 <- "/Users/.../tables" 
+path5 <- "/Users/s.../graphs" 
       
 getwd()
 setwd(path2)
